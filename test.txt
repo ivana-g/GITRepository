@@ -1,1 +1,9 @@
-this is a simple text file. Just one more change that needs to be done.
+this is a simple text file. Just one more change that needs to be done. 
+
+This is the first block of code: 
+
+public void testMethod(int size, int[] array){
+	/*
+	* This is the body of my test method.
+	*/
+}
